@@ -4,9 +4,9 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  East Bay View
 </h1>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bf1b9ec7-6fd6-44df-b516-6b1df8d9e20d/deploy-status)](https://app.netlify.com/sites/brave-wing-cd24ac/deploys)
 Kick off your project with this default boilerplate. This barebones starter ships with the main Gatsby configuration files you might need. 
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
