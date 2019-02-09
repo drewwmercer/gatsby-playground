@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://brave-wing-cd24ac.netlify.com/* http://www.eastbayview.com/:splat 301!
