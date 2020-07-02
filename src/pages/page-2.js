@@ -15,7 +15,7 @@ const SecondPage = () => (
               <article class="post">
 
                 <div class="post-thumbnail">
-                  <img src="images/blog/blog_post_5_full.jpg" alt="image">
+                  <img src="images/blog/blog_post_5_full.jpg" alt="image" />
                 </div>
 
                 <div class="post-content">
