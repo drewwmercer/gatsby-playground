@@ -8,7 +8,7 @@ const SecondPage = () => (
     <h1>Hi from the second page of East Bay View!</h1>
     <p>Welcome to page 2</p>
     <Link to="/">Go back to the homepage</Link>
-  iv id="main" class="site-main">
+  <div id="main" class="site-main">
         <div id="main-content" class="single-page-content">
           <div id="primary" class="content-area">
             <div id="content" class="page-content site-content" role="main">
